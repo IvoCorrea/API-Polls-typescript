@@ -1,2 +1,2 @@
 # API-Polls-typescript
-A API using WebSockets, Fastify.js and Typescript for a polls voting app
+A API using prisma, postgres, Fastify.js and Typescript for a polls voting app
